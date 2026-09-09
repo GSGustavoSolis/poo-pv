@@ -20,7 +20,7 @@ namespace CadastroAnimaisExercicio.Entidades
         public void ExibirDados()
         {
             Console.WriteLine($"Nome: {Nome}");
-            Console.WriteLine("teste");
+            Console.WriteLine("Timão");
             Console.WriteLine($"Espécie: {Especie}");
             Console.WriteLine($"Idade: {Idade} anos");
         }
